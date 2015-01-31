@@ -1,0 +1,13 @@
+# Object files
+*.o
+# Libraries
+*.lib
+*.a
+# Executables
+*.elf
+*.bin
+*.a43
+*.lst
+# Editor tempfiles
+*~
+
